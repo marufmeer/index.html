@@ -100,8 +100,31 @@ background-color: rgb(216, 206, 190);
 .yo{
    padding-top: 30px; 
 }
+#lol{
+    padding-top: 80px;
+}
+.job{
+    text-align: center;
+    padding-top: 50px;
+}
 
-
-
-
-    
+ #maruf{
+     padding-top: 100px;
+ }  
+ .table-box{
+     width: 1500px;
+     height: 250px;
+     background-color: black;
+     border: none;
+     border-radius: 40px;
+ }
+ footer p{
+     color: white;
+     text-align: center;
+ }
+ .mane{
+     font-size: 50px;
+ }
+ .col{
+     color: tomato;
+ }
