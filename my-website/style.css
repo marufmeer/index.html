@@ -40,6 +40,9 @@ section{
 }
 .half-width{
     width: 100%;
+ 
+    
+    
 
 
 }
@@ -54,6 +57,48 @@ section{
 }
 .color{
     color: orange;
+}
+.robot{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.half-width-f{
+margin-left: 5%;
+margin-right: 5%;
+border-radius: 20px;
+border-top: 30px;
+width:300px ;
+border-left: 5%;
+border-right: 5%;
+
+}
+.half-width-f img{
+    width: 200px;
+}
+#chiesa{
+background-color: rgb(176, 217, 231);
+
+}
+#mbappe{
+background-color: rgb(223, 186, 192);
+}
+#meer{
+background-color: rgb(216, 206, 190);
+}
+.side{
+    padding-left:20px ;
+}
+.image{
+    width: 10px;
+}
+#op{
+    width: 50px;
+  border-right: 50px;
+}
+.yo{
+   padding-top: 30px; 
 }
 
 
